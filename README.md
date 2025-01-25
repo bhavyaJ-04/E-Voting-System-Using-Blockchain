@@ -6,4 +6,9 @@ Our Blockchain-Based E-Voting System ensures secure, transparent, and tamper-pro
 
 🛠️ Key Features
 
-✅ Multi-Blockchain Architecture - Separate blockchains for registration, login, and voting✅ Merkle Tree Hashing - Ensures integrity and traceability of user registration and votes✅ Secure Voter Authentication - Uses Voter ID, Aadhaar ID, Password, and Passkey for verification✅ Multi-Chaining for Voting - Each candidate has their own blockchain for vote recording✅ Tamper-Proof Voting System - Once a vote is cast, it remains immutable and verifiable✅ Real-Time Vote Counting - Votes are updated and counted instantly
+✅ Multi-Blockchain Architecture - Separate blockchains for registration, login, and voting
+✅ Merkle Tree Hashing - Ensures integrity and traceability of user registration and votes
+✅ Secure Voter Authentication - Uses Voter ID, Aadhaar ID, Password, and Passkey for verification
+✅ Multi-Chaining for Voting - Each candidate has their own blockchain for vote recording
+✅ Tamper-Proof Voting System - Once a vote is cast, it remains immutable and verifiable
+✅ Real-Time Vote Counting - Votes are updated and counted instantly
